@@ -1,0 +1,132 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled2.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMUWvW/VMyILQupXfr28haB",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ERIC0849/Computational-Thinking-and-Program-Design/blob/master/%E5%B9%B4%E7%B4%80%E8%BC%B8%E5%85%A5%E6%B3%95\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "TUexdCYWNS71",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "4f9194a2-2f22-4459-eb17-859fdde04fda"
+      },
+      "source": [
+        "age=input(\"Enter Your Age:\")"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Enter Your Age:18\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "J3rbXy26N9qA",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "408ed9af-84c7-49db-c4d9-739acbca4e42"
+      },
+      "source": [
+        "print(\"我的年紀是\",18,\"歲\")"
+      ],
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "我的年紀是 18 歲\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "rkScHIIxOZB3",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "e4eab51b-8153-48b8-e16b-2f9bf78643f4"
+      },
+      "source": [
+        "year=18\n",
+        "print(\"我的年紀是\",year,\"歲\")"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "我的年紀是 18 歲\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "qxKrfOXGOwHe",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 51
+        },
+        "outputId": "c8b5dfa7-825c-475a-b2b0-acfff44b36d3"
+      },
+      "source": [
+        "year=input(\"請輸入你的年紀\")\n",
+        "print(\"年紀為\",year)"
+      ],
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "請輸入你的年紀18\n",
+            "年紀為 18\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
